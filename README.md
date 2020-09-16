@@ -8,10 +8,12 @@ use the onion router for bypass blocking the IP
 Dependencies:
 
 Python3 libraries:
+```
   requests
   bs4
   stem
   openpyxl
+```
 
 /etc/tor/torrc:
 
