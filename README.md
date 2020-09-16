@@ -13,6 +13,7 @@ requests
 bs4
 stem
 openpyxl
+pysocks
 ```
 
 /etc/tor/torrc:
