@@ -9,10 +9,10 @@ Dependencies:
 
 Python3 libraries:
 ```
-  requests
-  bs4
-  stem
-  openpyxl
+requests
+bs4
+stem
+openpyxl
 ```
 
 /etc/tor/torrc:
