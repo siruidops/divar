@@ -13,7 +13,7 @@ Python3 libraries:
 
 /etc/tor/torrc:
 
-"""text
+""" text
 ...
 ControlPort: 9051
 """
@@ -21,7 +21,7 @@ ControlPort: 9051
 If you have trouble connecting to the tor please check bridges ( https://bridges.torproject.org/bridges )
 and add this lines to /etc/tor/torrc:
 
-"""text
+""" text
 ...
 UseBridges 1
 Bridge [1st bridge]
